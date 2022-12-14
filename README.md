@@ -7,6 +7,8 @@ De hecho, este proceso no sólo es importante, sino que es también obligatorio 
 Esta Pieza de codigo, o app de Django hace precisamente eso, nos permite agregar a nuestra app-web la forma de recopilar correos electronicos a traves de la suscripcion 
 de los visitantes y de esta forma tenerlos en la base de datos para enviarles publicidad, noticias, promociones. Etc.
 
+Nos permite hacer CRUD de los newsletters. 
+
 ## Instalacion
 
 1. Genere un ambiente virtual nuevo o el del proyecto en el que trabaja actualmente.
